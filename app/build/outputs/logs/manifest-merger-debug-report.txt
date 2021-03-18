@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
-INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
-INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
-INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
+ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\91a703e7cf5890a22be71be8877a81d0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v4:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\150bcaed127b26701a9ef5645171ff11\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\472e06d32560f1e8e84e5a33aeeb707e\AndroidManifest.xml:17:1-31:12
@@ -14,25 +14,25 @@ MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\USER\.gradle\c
 MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\bf79101b67cd5033749e3039a982fcaf\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\5c3c0b1e4196f736a39da78b7fc2f78d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\0a6843cc8c8820315dc86d55cea7baf0\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
-INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
-INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:4:5-50
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:5-50
 		INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:1-22:12
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:3:11-69
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:6:5-20:19
+ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\91a703e7cf5890a22be71be8877a81d0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\91a703e7cf5890a22be71be8877a81d0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\150bcaed127b26701a9ef5645171ff11\AndroidManifest.xml:25:5-29:19
@@ -54,17 +54,21 @@ MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\USER\.gra
 MERGED from [com.android.support:support-compat:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\0a6843cc8c8820315dc86d55cea7baf0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\0a6843cc8c8820315dc86d55cea7baf0\AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.fragmentexample.SecondActivity
+ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:12:19-49
 activity#com.example.android.fragmentexample.MainActivity
 ADDED from C:\Users\USER\Downloads\FragmentExample_start\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
