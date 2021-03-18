@@ -1,5 +1,5 @@
 # Fragment
 ### App screenshot
-![](./yes.png)
-![](./No.png)
+![](./open.png)
+![](./close.png)
 
